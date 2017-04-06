@@ -14,8 +14,15 @@ a {
   color: white;
 }
 
+div.header {
+  height: 300px;
+  background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+}
+
 
 h1 {
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
   font-size: 70px;
   font-weight: bold;
@@ -23,15 +30,14 @@ h1 {
 
 
 h2 {
-  font-size: 42px;
-  font-weight: 300;
-  color: white;
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
 }
 
 
 p {
-  font-size: 21px;
-  color: gray;
+  font-size: 14px;
 }
 
 
